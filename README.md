@@ -10,7 +10,7 @@
   </a>    
 </div>
 
-Sou um Engenheiro de dados, amo jogos indie, python e dados.(https://github.com/Mglimah).
+Sou Engenheiro de dados, amo jogos indie, python e dados (https://github.com/Mglimah).
 
 - ❤ Big Data
 - 💙 Cloud Computing
